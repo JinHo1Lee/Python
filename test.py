@@ -1,4 +1,4 @@
-
+#Test
 class A:
 	data1=0
 	data2=0
